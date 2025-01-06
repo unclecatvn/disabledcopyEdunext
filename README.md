@@ -46,6 +46,7 @@
      // @namespace    http://tampermonkey.net/
      // @version      1.1
      // @description  Bỏ chặn phím Ctrl+V trên trang fu-edunext.fpt.edu.vn bằng cách ngăn chặn các sự kiện trước khi chúng được xử lý bởi trang web
+     // @author       unclecat
      // @match        https://fu-edunext.fpt.edu.vn/*
      // @grant        none
      // ==/UserScript==
